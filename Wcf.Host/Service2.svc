@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Service="Wcf.Service2" Factory="Wcf.Extension.Hosting.CustomServiceHostFactory" %>
